@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 9971f02773287414aa2e8cd1393f6010
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rig
+    100002: RigHead
+    100004: RigHeadGizmo
+    100006: RigJawBtm
+    100008: RigJawBtmGizmo
+    100010: RigLLeg011
+    100012: RigLLeg012
+    100014: RigLLeg013
+    100016: RigLLeg01Platform
+    100018: RigLLeg021
+    100020: RigLLeg022
+    100022: RigLLeg023
+    100024: RigLLeg02Platform
+    100026: RigLLeg031
+    100028: RigLLeg032
+    100030: RigLLeg033
+    100032: RigLLeg03Platform
+    100034: RigLLeg041
+    100036: RigLLeg042
+    100038: RigLLeg043
+    100040: RigLLeg04Platform
+    100042: RigPelvis
+    100044: RigPelvisGizmo
+    100046: RigRLeg011
+    100048: RigRLeg012
+    100050: RigRLeg013
+    100052: RigRLeg01Platform
+    100054: RigRLeg021
+    100056: RigRLeg022
+    100058: RigRLeg023
+    100060: RigRLeg02Platform
+    100062: RigRLeg031
+    100064: RigRLeg032
+    100066: RigRLeg033
+    100068: RigRLeg03Platform
+    100070: RigRLeg041
+    100072: RigRLeg042
+    100074: RigRLeg043
+    100076: RigRLeg04Platform
+    100078: RigSpine
+    100080: RigTail1
+    100082: RigTail1Gizmo
+    100084: RigTail2
+    100086: RigTail2Gizmo
+    100088: RigTail3
+    100090: RigTail3Gizmo
+    100092: Toon Spider
+    100094: //RootNode
+    400000: Rig
+    400002: RigHead
+    400004: RigHeadGizmo
+    400006: RigJawBtm
+    400008: RigJawBtmGizmo
+    400010: RigLLeg011
+    400012: RigLLeg012
+    400014: RigLLeg013
+    400016: RigLLeg01Platform
+    400018: RigLLeg021
+    400020: RigLLeg022
+    400022: RigLLeg023
+    400024: RigLLeg02Platform
+    400026: RigLLeg031
+    400028: RigLLeg032
+    400030: RigLLeg033
+    400032: RigLLeg03Platform
+    400034: RigLLeg041
+    400036: RigLLeg042
+    400038: RigLLeg043
+    400040: RigLLeg04Platform
+    400042: RigPelvis
+    400044: RigPelvisGizmo
+    400046: RigRLeg011
+    400048: RigRLeg012
+    400050: RigRLeg013
+    400052: RigRLeg01Platform
+    400054: RigRLeg021
+    400056: RigRLeg022
+    400058: RigRLeg023
+    400060: RigRLeg02Platform
+    400062: RigRLeg031
+    400064: RigRLeg032
+    400066: RigRLeg033
+    400068: RigRLeg03Platform
+    400070: RigRLeg041
+    400072: RigRLeg042
+    400074: RigRLeg043
+    400076: RigRLeg04Platform
+    400078: RigSpine
+    400080: RigTail1
+    400082: RigTail1Gizmo
+    400084: RigTail2
+    400086: RigTail2Gizmo
+    400088: RigTail3
+    400090: RigTail3Gizmo
+    400092: Toon Spider
+    400094: //RootNode
+    2100000: No Name
+    4300000: Toon Spider
+    7400000: Run Backward In Place
+    9500000: //RootNode
+    13700000: Toon Spider
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run Backward In Place
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

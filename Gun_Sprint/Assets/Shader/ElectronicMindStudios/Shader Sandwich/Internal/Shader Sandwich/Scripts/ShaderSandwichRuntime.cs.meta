@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 662337595dc72404c838228abf0c3ba2
+timeCreated: 1503244612
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PerlinNoise: {fileID: 2800000, guid: 51b23ba1f39db7f4aafb3ba9cdc7b067, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

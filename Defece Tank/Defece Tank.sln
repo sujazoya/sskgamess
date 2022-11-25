@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{24451b56-cb28-083f-5c06-a986092df39a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTai.TrueShadow", "LeTai.TrueShadow.csproj", "{aba3856b-04e4-42eb-1921-68a2eb253f87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTai.TrueShadow.Demo", "LeTai.TrueShadow.Demo.csproj", "{49387f7b-4e3f-32e4-0a34-7fa44a2be95a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllIn1VfxAssmebly", "AllIn1VfxAssmebly.csproj", "{e79617a6-f41a-0170-bc9e-9115da7bf0b1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{f9ff43b9-c242-bdc6-c458-482256308e07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllIn1VfxDemoScriptAssemblies", "AllIn1VfxDemoScriptAssemblies.csproj", "{ad4958ff-44b1-b335-30c4-71dfed164d30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllIn1VfxTexDemoAssembly", "AllIn1VfxTexDemoAssembly.csproj", "{2f88e625-59b1-83ef-c431-9c981ca03a84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{a8a7a79c-65a1-4945-103a-7aaba9df7c57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{bf2e6749-7971-ae5a-397a-377cd5755dac}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTai.TrueShadow.Editor", "LeTai.TrueShadow.Editor.csproj", "{a4c325f1-a89f-8d6e-7d8e-2aff4165f707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24451b56-cb28-083f-5c06-a986092df39a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24451b56-cb28-083f-5c06-a986092df39a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{aba3856b-04e4-42eb-1921-68a2eb253f87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{aba3856b-04e4-42eb-1921-68a2eb253f87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49387f7b-4e3f-32e4-0a34-7fa44a2be95a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49387f7b-4e3f-32e4-0a34-7fa44a2be95a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e79617a6-f41a-0170-bc9e-9115da7bf0b1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e79617a6-f41a-0170-bc9e-9115da7bf0b1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f9ff43b9-c242-bdc6-c458-482256308e07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f9ff43b9-c242-bdc6-c458-482256308e07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ad4958ff-44b1-b335-30c4-71dfed164d30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ad4958ff-44b1-b335-30c4-71dfed164d30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2f88e625-59b1-83ef-c431-9c981ca03a84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2f88e625-59b1-83ef-c431-9c981ca03a84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a8a7a79c-65a1-4945-103a-7aaba9df7c57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a8a7a79c-65a1-4945-103a-7aaba9df7c57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bf2e6749-7971-ae5a-397a-377cd5755dac}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bf2e6749-7971-ae5a-397a-377cd5755dac}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a4c325f1-a89f-8d6e-7d8e-2aff4165f707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a4c325f1-a89f-8d6e-7d8e-2aff4165f707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTai.TrueShadow", "LeTai.TrueShadow.csproj", "{5db894ac-2c25-5a1d-112d-891734870cdb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{9816a57e-d087-e0fd-7739-574c959bc915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTai.TrueShadow.Demo", "LeTai.TrueShadow.Demo.csproj", "{7a6ec763-8881-24da-53dc-8f76d7e4cbf5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{7a310a87-ba16-2624-2502-73c58de12b89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{bb5c9621-1183-bc5b-0a1f-f2101fa66815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTai.TrueShadow.Editor", "LeTai.TrueShadow.Editor.csproj", "{9673d355-bea8-5688-82b5-7ca7bed925c0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{d8e82be2-e05c-875b-5830-564cb8868c18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{bc0d96dd-b243-bad6-6a10-aedda52540b9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5db894ac-2c25-5a1d-112d-891734870cdb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5db894ac-2c25-5a1d-112d-891734870cdb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9816a57e-d087-e0fd-7739-574c959bc915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9816a57e-d087-e0fd-7739-574c959bc915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7a6ec763-8881-24da-53dc-8f76d7e4cbf5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7a6ec763-8881-24da-53dc-8f76d7e4cbf5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7a310a87-ba16-2624-2502-73c58de12b89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7a310a87-ba16-2624-2502-73c58de12b89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bb5c9621-1183-bc5b-0a1f-f2101fa66815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bb5c9621-1183-bc5b-0a1f-f2101fa66815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9673d355-bea8-5688-82b5-7ca7bed925c0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9673d355-bea8-5688-82b5-7ca7bed925c0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d8e82be2-e05c-875b-5830-564cb8868c18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d8e82be2-e05c-875b-5830-564cb8868c18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bc0d96dd-b243-bad6-6a10-aedda52540b9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bc0d96dd-b243-bad6-6a10-aedda52540b9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

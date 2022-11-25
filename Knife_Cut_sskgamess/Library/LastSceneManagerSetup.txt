@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/KnifeHit/Scene/HomeScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

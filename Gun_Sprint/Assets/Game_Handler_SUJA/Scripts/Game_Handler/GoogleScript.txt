@@ -1,0 +1,31 @@
+function doGet(e){
+  var ss = SpreadsheetApp.openByUrl("Your google sheet link here");
+  var sheet = ss.getSheetByName('Demo');
+
+  return getAddData(sheet);
+}
+
+function getAddData(sheet){
+  var jo = {};
+  var rows = sheet.getRange(1,1,sheet.getLastRow(),sheet.getLastColumn()).getValues(); 
+
+  var techArr = ['android','ios'];
+  var fields = [];
+  for(var i = 0; i <rows[0].length; i++){
+    fields.push(rows[0][i]);
+  }
+  for(var i = 1,k = 0, l = rows.length; i<l; i++){
+    var dataRow = rows[i];
+    var record = {};
+    for(var j = 0; j < fields.length; j++){
+      record[fields[j]] = dataRow[j];
+    }
+    jo[techArr[k]]= record;
+    k++;
+  }
+
+  var result = JSON.stringify(jo);
+
+  return ContentService.createTextOutput(result).setMimeType(ContentService.MimeType.JSON);
+
+}

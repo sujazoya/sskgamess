@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4107488400764864178
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4107488400764864176}
+  - component: {fileID: 4107488400764864177}
+  m_Layer: 0
+  m_Name: Level_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4107488400764864176
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4107488400764864178}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4107488400764864177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4107488400764864178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc11c4fbb373f1049aa1af0a5ee2cda9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Dancers:
+  - {fileID: 5511927075618672937, guid: a57bcbbd206f84d479e7a0c791e15f1c, type: 3}
+  - {fileID: 1225141820794193163, guid: 55c8054bba5f6874a936119711320bea, type: 3}
+  - {fileID: 7695737056873729417, guid: e1a81c3e05d0cea409c708c0db371b2a, type: 3}
+  - {fileID: 8445272163385051749, guid: 3b8faa9bffa8adf45bdc9de0327f9ce4, type: 3}
+  - {fileID: 8267573405164526134, guid: a93a597d9ee0f424ab4fa8d74038059b, type: 3}
+  - {fileID: 1882325500143358352, guid: 423d4e99b9ceebc44ba2263b1f757ab9, type: 3}
+  DancersCounts: 22
+  items:
+  - {fileID: 4398238556163981223, guid: 53d5ab22e3d5a7f40880111744b893ea, type: 3}
+  ItemsCounts: 5
+  levelTarget: 15

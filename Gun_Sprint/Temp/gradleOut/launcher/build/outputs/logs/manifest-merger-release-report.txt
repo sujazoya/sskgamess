@@ -1,0 +1,588 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:3:1-64:12
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.gms:play-services-ads:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\2c74e0e63aa23ed0fa10ecb67cd1915b\AndroidManifest.xml:17:1-25:12
+MERGED from [:googlemobileads-unity:] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\178d939201f70bdc2debf59b3cc35b9c\AndroidManifest.xml:7:1-12:12
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-gass:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\0adba8624f1b41bfc6b6accd72d5b148\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\229685e1eb9d381279838503b116248a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1ed5f0c3f5bfcd247a3497286aafbd37\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\ccf3b3f31c64e44c024b8d6b173378e3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\095158e40d4183bd8b143e4d8f0e7685\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\287c1616b0fe1220619ccaf86318ecf5\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\d4e503e770d986e65f41c3310e8dcc0e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\9d44ae90b23b4efc43f216c45abbab7b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\61b8fa841bd4edf59b504d4abf20fed5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:17:1-125:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\841b9ed60f5e0ff9ae59e29bf669c5f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\60f2d3b4a1a0d2f04c267593a7eac10d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\63c9c580dbd981bd0d22fda99d6bfaf9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\55d45ecb30a5fbfc0730d902c4311d4c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\90415ed7430c9e9ccd80205f257e448c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\842121ae7a4a395c9a2b52208f68d4a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\e94ecceb51208ee8c9c9c7214aa234ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\57a977e42faf4e71df5d9ac86ca24072\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\6d1f33c77719d88e8d4e44736aa6947e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\4b474b6b670d5f1843dadcef51732b96\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\f2029bcfc92cb4b53b123a9c260d8b3c\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\e946a4971bf14e12ed7991fe9fbf2aa9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1d293affbd600fc123f514840e004b53\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\794162df2be8cd1fbf8f03aa0eba6885\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1a3210dc859a98b0934640e22ddd44de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\0c998f8169448bf5a5414747b2cf98f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\c92914373dd69795d054285b808370a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\a222dc53ae64fcbfb4cc520bf9bfcc44\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\b1e71333d9b6479a67b76b8bb363277b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\22d5b47887d932930001eda8ccaf8963\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\ec38a91468044803bc9360fa6354cf5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\03a4a1bc1edb38d3162f8aa90b0236c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\2f846ba6800e4dcc8d612e2d890d8eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\2190f3f8e87ac4cb3670255adb518222\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\34fe5693335283d1fc62f6314787d070\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\b1b35faa81a1eeb5e4d835b4dd450efa\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:70-104
+		INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:105-151
+	android:versionCode
+		INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:152-192
+supports-screens
+ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:5-62:19
+MERGED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:5-62:19
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:14:5-25:19
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:14:5-25:19
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-17:19
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-17:19
+MERGED from [com.google.android.gms:play-services-gass:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\0adba8624f1b41bfc6b6accd72d5b148\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\0adba8624f1b41bfc6b6accd72d5b148\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\229685e1eb9d381279838503b116248a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\229685e1eb9d381279838503b116248a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\ccf3b3f31c64e44c024b8d6b173378e3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\ccf3b3f31c64e44c024b8d6b173378e3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\095158e40d4183bd8b143e4d8f0e7685\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\095158e40d4183bd8b143e4d8f0e7685\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\287c1616b0fe1220619ccaf86318ecf5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\287c1616b0fe1220619ccaf86318ecf5\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:29:5-123:19
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:29:5-123:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\4b474b6b670d5f1843dadcef51732b96\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\4b474b6b670d5f1843dadcef51732b96\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\f2029bcfc92cb4b53b123a9c260d8b3c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\f2029bcfc92cb4b53b123a9c260d8b3c\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\e946a4971bf14e12ed7991fe9fbf2aa9\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\e946a4971bf14e12ed7991fe9fbf2aa9\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-base:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1d293affbd600fc123f514840e004b53\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1d293affbd600fc123f514840e004b53\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\f2029bcfc92cb4b53b123a9c260d8b3c\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\2c74e0e63aa23ed0fa10ecb67cd1915b\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\2c74e0e63aa23ed0fa10ecb67cd1915b\AndroidManifest.xml:21:5-23:52
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-47
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-47
+MERGED from [com.google.android.gms:play-services-gass:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\0adba8624f1b41bfc6b6accd72d5b148\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\0adba8624f1b41bfc6b6accd72d5b148\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\229685e1eb9d381279838503b116248a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\229685e1eb9d381279838503b116248a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1ed5f0c3f5bfcd247a3497286aafbd37\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1ed5f0c3f5bfcd247a3497286aafbd37\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\ccf3b3f31c64e44c024b8d6b173378e3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\ccf3b3f31c64e44c024b8d6b173378e3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\095158e40d4183bd8b143e4d8f0e7685\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\095158e40d4183bd8b143e4d8f0e7685\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\287c1616b0fe1220619ccaf86318ecf5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\287c1616b0fe1220619ccaf86318ecf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\d4e503e770d986e65f41c3310e8dcc0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\d4e503e770d986e65f41c3310e8dcc0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\9d44ae90b23b4efc43f216c45abbab7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\9d44ae90b23b4efc43f216c45abbab7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\61b8fa841bd4edf59b504d4abf20fed5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\61b8fa841bd4edf59b504d4abf20fed5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\841b9ed60f5e0ff9ae59e29bf669c5f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\841b9ed60f5e0ff9ae59e29bf669c5f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\60f2d3b4a1a0d2f04c267593a7eac10d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\60f2d3b4a1a0d2f04c267593a7eac10d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\63c9c580dbd981bd0d22fda99d6bfaf9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\63c9c580dbd981bd0d22fda99d6bfaf9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\55d45ecb30a5fbfc0730d902c4311d4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\55d45ecb30a5fbfc0730d902c4311d4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\90415ed7430c9e9ccd80205f257e448c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\90415ed7430c9e9ccd80205f257e448c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\842121ae7a4a395c9a2b52208f68d4a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\842121ae7a4a395c9a2b52208f68d4a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\e94ecceb51208ee8c9c9c7214aa234ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\e94ecceb51208ee8c9c9c7214aa234ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\57a977e42faf4e71df5d9ac86ca24072\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\57a977e42faf4e71df5d9ac86ca24072\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\6d1f33c77719d88e8d4e44736aa6947e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\6d1f33c77719d88e8d4e44736aa6947e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\4b474b6b670d5f1843dadcef51732b96\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\4b474b6b670d5f1843dadcef51732b96\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\f2029bcfc92cb4b53b123a9c260d8b3c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\f2029bcfc92cb4b53b123a9c260d8b3c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\e946a4971bf14e12ed7991fe9fbf2aa9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\e946a4971bf14e12ed7991fe9fbf2aa9\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-base:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1d293affbd600fc123f514840e004b53\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1d293affbd600fc123f514840e004b53\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\794162df2be8cd1fbf8f03aa0eba6885\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\794162df2be8cd1fbf8f03aa0eba6885\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1a3210dc859a98b0934640e22ddd44de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1a3210dc859a98b0934640e22ddd44de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\0c998f8169448bf5a5414747b2cf98f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\0c998f8169448bf5a5414747b2cf98f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\c92914373dd69795d054285b808370a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\c92914373dd69795d054285b808370a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\a222dc53ae64fcbfb4cc520bf9bfcc44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\a222dc53ae64fcbfb4cc520bf9bfcc44\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\b1e71333d9b6479a67b76b8bb363277b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\b1e71333d9b6479a67b76b8bb363277b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\22d5b47887d932930001eda8ccaf8963\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\22d5b47887d932930001eda8ccaf8963\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\ec38a91468044803bc9360fa6354cf5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\ec38a91468044803bc9360fa6354cf5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\03a4a1bc1edb38d3162f8aa90b0236c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\03a4a1bc1edb38d3162f8aa90b0236c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\2f846ba6800e4dcc8d612e2d890d8eaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\2f846ba6800e4dcc8d612e2d890d8eaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\2190f3f8e87ac4cb3670255adb518222\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\2190f3f8e87ac4cb3670255adb518222\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\34fe5693335283d1fc62f6314787d070\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\34fe5693335283d1fc62f6314787d070\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\b1b35faa81a1eeb5e4d835b4dd450efa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\b1b35faa81a1eeb5e4d835b4dd450efa\AndroidManifest.xml:20:5-44
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\2c74e0e63aa23ed0fa10ecb67cd1915b\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		MERGED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:11:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\178d939201f70bdc2debf59b3cc35b9c\AndroidManifest.xml:10:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\178d939201f70bdc2debf59b3cc35b9c\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1ed5f0c3f5bfcd247a3497286aafbd37\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1ed5f0c3f5bfcd247a3497286aafbd37\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1ed5f0c3f5bfcd247a3497286aafbd37\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1ed5f0c3f5bfcd247a3497286aafbd37\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:22-76
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-48:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-194
+	android:theme
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-54
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-44:40
+	android:value
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:17-37
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+	android:value
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:9-52:33
+	android:value
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-30
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:36
+	android:value
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-33
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:50
+	android:value
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-47
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:68
+	android:value
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-65
+	android:name
+		ADDED from [:unityLibrary] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-42
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:15:9-19:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:16:13-68
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:21:9-24:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:23:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.11.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\3d78d781be41884ca6904b5cabb89256\AndroidManifest.xml:22:13-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12 reason: com.google.unity.ads has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12 reason: com.google.unity.ads has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12 reason: com.google.unity.ads requested WRITE_EXTERNAL_STORAGE
+uses-library#org.apache.http.legacy
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:11:13-50
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-16:70
+	android:value
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-67
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] E:\Unity Projects\sskgamess\Gun_Sprint\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-69
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:36:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:41:9-44:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.5.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\32556997726a597feefc0d27d981bc15\AndroidManifest.xml:42:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1ed5f0c3f5bfcd247a3497286aafbd37\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\1ed5f0c3f5bfcd247a3497286aafbd37\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\287c1616b0fe1220619ccaf86318ecf5\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\287c1616b0fe1220619ccaf86318ecf5\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\287c1616b0fe1220619ccaf86318ecf5\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:27:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:30:9-36:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:32:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:35:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:34:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:31:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:38:9-43:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:42:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:43:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:39:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:44:9-50:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:47:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:48:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:49:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:50:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:45:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:55:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:53:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:58:9-68:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:61:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:62:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:63:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:59:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:64:13-67:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:65:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:65:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:66:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:66:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:69:9-79:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:72:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:73:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:74:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:71:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:70:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:75:13-78:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:76:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:77:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:80:9-90:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:83:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:84:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:85:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:81:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:86:13-89:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:87:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:87:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:88:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:88:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:91:9-100:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:94:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:95:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:96:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:92:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:97:13-99:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:98:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:98:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:101:9-112:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:104:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:105:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:106:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:103:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:102:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:107:13-111:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:108:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:108:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:109:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:109:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:110:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:110:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:113:9-122:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:116:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:117:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:118:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:115:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:114:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:119:13-121:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:120:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\fc218ab8022a293ff55833d61df4b577\AndroidManifest.xml:120:25-95
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\4b474b6b670d5f1843dadcef51732b96\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\4b474b6b670d5f1843dadcef51732b96\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\nurida\.gradle\caches\transforms-2\files-2.1\4b474b6b670d5f1843dadcef51732b96\AndroidManifest.xml:26:13-74

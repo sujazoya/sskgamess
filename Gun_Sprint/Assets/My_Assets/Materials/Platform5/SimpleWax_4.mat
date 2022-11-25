@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SimpleWax_4
+  m_Shader: {fileID: 4800000, guid: 152bc97c30ca56544856f34a67c7fc10, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Burn_Texture:
+        m_Texture: {fileID: 2800000, guid: 354f7eb7f261f094399e01c57c0c2a0d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 2800000, guid: ff2a8d5c74325294e980375f88f29efe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AO_Strength: 0.5413223
+    - _Bias: -0.3
+    - _BumpScale: 1
+    - _Cutoff: 0.47
+    - _Despill: 0.3967611
+    - _DetailNormalMapScale: 1
+    - _Distance: 2.54
+    - _DstBlend: 0
+    - _Falloff: 4.06
+    - _Glossiness: 0.5
+    - _Glow: 12.8
+    - _Glow_Width: -0.5724038
+    - _Grass_Quality_Tessellation: 1
+    - _Grass_Scale: 50
+    - _Green_Despill: 0.91
+    - _Hardness: 5.93
+    - _Metallic: 0
+    - _Mode: 0
+    - _Normal_Height: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.08
+    - _Rim_Thickness: 1.99
+    - _Rim_Thinness: 2.68
+    - _SSS_Fringing: 0.1428572
+    - _SSS_Scale: 0.159612
+    - _Scale__Max: 1000
+    - _Scale__Min: 20
+    - _ShellDistance: 0.5
+    - _Shininess: 0.02
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _Wave_Scale: 5.92
+    - _Wave_Strength: 0.02066116
+    - _Wax_Level: 0.3917526
+    - _Wind_Scale: 55
+    - _Wind_Strength: 0.06153846
+    - _Wrap_Amount: 0.7586207
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0.83137256, g: 0.8509804, b: 0.14509805, a: 1}
+    - _Depth_Color: {r: 0, g: 0, b: 0, a: 0.459}
+    - _Depth_Darkening_AO: {r: 0, g: 0, b: 0, a: 0.628}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Outline_Color: {r: 1, g: 0.6685237, b: 0, a: 1}
+    - _Rim_Color: {r: 0, g: 0.4988508, b: 1, a: 1}
+    - _SSS_Color: {r: 1, g: 0.3, b: 0.3, a: 1}
+    - _SpecColor: {r: 0.1029412, g: 0.1029412, b: 0.1029412, a: 1}
+    - _Texture3__Main_Color: {r: 0.2452422, g: 0.6176471, b: 0.34382, a: 1}
+    - _Wind_Direction: {r: 0.5, g: 0, b: 0, a: 1}
+    - _Wrap_Color: {r: 0.7490196, g: 0.3215686, b: 0.3215686, a: 1}

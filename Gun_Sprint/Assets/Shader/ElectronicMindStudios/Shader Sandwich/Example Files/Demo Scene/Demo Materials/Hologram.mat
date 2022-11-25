@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hologram
+  m_Shader: {fileID: 4800000, guid: bafd9bc2e8f36584ab7cd2b21c1753a7, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Burn_Texture:
+        m_Texture: {fileID: 2800000, guid: 354f7eb7f261f094399e01c57c0c2a0d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: df74a0cbfe3033e48af5c068e2386265, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 2800000, guid: ff2a8d5c74325294e980375f88f29efe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.47
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Force_Flicker: 0.4444444
+    - _Glossiness: 0.5
+    - _Glow: 12.8
+    - _Glow_Width: -0.5724038
+    - _Metallic: 0
+    - _Mode: 0
+    - _Normal_Height: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.08
+    - _Pull_Height: 0.7
+    - _Rim_Thickness: 1.99
+    - _Rim_Thinness: 2.68
+    - _SSS_Fringing: 0.1428572
+    - _SSS_Scale: 0.159612
+    - _Scale__Max: 1000
+    - _Scale__Min: 20
+    - _ShellDistance: 0.03869732
+    - _Shininess: 0.02
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _Wave_Scale: 5.92
+    - _Wave_Strength: 0.02066116
+    - _Wrap_Amount: 0.7586207
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 0.39310342, b: 0, a: 1}
+    - _Depth_Color: {r: 0, g: 0, b: 0, a: 0.459}
+    - _Dust_Color: {r: 0.1901623, g: 0, b: 0.2205882, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Flicker_Direction: {r: 0.1176471, g: 0, b: 0.1176471, a: 1}
+    - _Lines_Color: {r: 0.5310345, g: 0, b: 1, a: 1}
+    - _Outline_Color: {r: 1, g: 0.6685237, b: 0, a: 1}
+    - _Pull_Direction: {r: 0, g: 1, b: 0, a: 1}
+    - _Rim_Color: {r: 0, g: 0.4988508, b: 1, a: 1}
+    - _SSS_Color: {r: 1, g: 0.3, b: 0.3, a: 1}
+    - _Sparkles_Color: {r: 0.125, g: 0.4568966, b: 1, a: 1}
+    - _SpecColor: {r: 0.1029412, g: 0.1029412, b: 0.1029412, a: 1}
+    - _Squares_Color: {r: 0.4779412, g: 0, b: 0.04944224, a: 1}
+    - _Wrap_Color: {r: 0.7490196, g: 0.3215686, b: 0.3215686, a: 1}

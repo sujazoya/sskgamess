@@ -1,0 +1,19 @@
+public enum LerpType
+{
+	Liner,
+	EaseInQuad,
+	EaseOutQuad,
+	EaseInOutQuad,
+	EaseInCubic,
+	EaseOutCubic,
+	EaseInOutCubic,
+	EaseInQuart,
+	EaseOutQuart,
+	EaseInOutQuart,
+	EaseInQuint,
+	EaseOutQuint,
+	EaseInOutQuint,
+	EaseInElastic,
+	EaseOutElastic,
+	EaseInOutElastic
+}

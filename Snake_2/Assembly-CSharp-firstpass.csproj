@@ -61,6 +61,7 @@
      <Compile Include="Assets\Plugins\I2\Text Animation\Scripts\Vertex Effects\Animation\SequenceTypes\SE_AnimSequence_UV.cs" />
      <Compile Include="Assets\Plugins\I2\Text Animation\Scripts\Vertex Effects\TextAnimation.cs" />
      <Compile Include="Assets\Plugins\I2\Text Animation\Scripts\Vertex Effects\TextAnimation_Animation.cs" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Plugins\I2\Text Animation\Scripts\Utils\link.xml" />
      <None Include="Assets\Plugins\I2\Text Animation\TextAnimation Readme.txt" />
      <None Include="Assets\Plugins\Android\GoogleMobileAdsPlugin.androidlib\AndroidManifest.xml" />
@@ -242,25 +243,25 @@
         <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds.Android">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.Android.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.Android.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds.Common">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.Common.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.Common.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds.Core">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.Core.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.Core.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds.iOS">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.iOS.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.iOS.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds.Unity">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Assets/GoogleMobileAds/GoogleMobileAds.Unity.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Assets/My_Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Assets/My_Assets/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -617,31 +618,31 @@
         <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>E:/Unity Projects/sskgamess/Snake_2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Snake_2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

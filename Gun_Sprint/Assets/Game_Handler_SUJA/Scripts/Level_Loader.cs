@@ -42,7 +42,6 @@ public class Level_Loader : MonoBehaviour
             //percetangeText.text = progress * 100f + "%";
             yield return null;
         }
-       AdmobAdmanager.Instance.ShowInterstitial();
-       FacebookAdManager.Instance.ShowInterstitial();
+       AdmobAdmanager.Instance.ShowInterstitial();       
     }
 }

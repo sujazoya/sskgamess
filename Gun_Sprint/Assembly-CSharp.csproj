@@ -36,18 +36,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\AudienceNetwork\Library\AdHandler.cs" />
-     <Compile Include="Assets\AudienceNetwork\Library\AdSettings.cs" />
-     <Compile Include="Assets\AudienceNetwork\Library\AdUtility.cs" />
-     <Compile Include="Assets\AudienceNetwork\Library\AdView.cs" />
-     <Compile Include="Assets\AudienceNetwork\Library\AudienceNetworkAds.cs" />
-     <Compile Include="Assets\AudienceNetwork\Library\ExtraHints.cs" />
-     <Compile Include="Assets\AudienceNetwork\Library\InterstitialAd.cs" />
-     <Compile Include="Assets\AudienceNetwork\Library\RewardedVideoAd.cs" />
-     <Compile Include="Assets\AudienceNetwork\Library\SdkVersion.cs" />
-     <Compile Include="Assets\AudienceNetwork\Scenes\Banner\AdViewScene.cs" />
-     <Compile Include="Assets\AudienceNetwork\Scenes\Interstitial\InterstitialAdScene.cs" />
-     <Compile Include="Assets\AudienceNetwork\Scenes\RewardedVideo\RewardedVideoAdScene.cs" />
      <Compile Include="Assets\Game_Handler_SUJA\In_HouseAd\RewardedAdManager.cs" />
      <Compile Include="Assets\Game_Handler_SUJA\In_HouseAd\RewardedButton.cs" />
      <Compile Include="Assets\Game_Handler_SUJA\In_HouseAd\Scripts\AdCompleteCaller.cs" />
@@ -62,9 +50,6 @@
      <Compile Include="Assets\Game_Handler_SUJA\Scripts\CameraShake.cs" />
      <Compile Include="Assets\Game_Handler_SUJA\Scripts\Close_Button.cs" />
      <Compile Include="Assets\Game_Handler_SUJA\Scripts\ColorChanger.cs" />
-     <Compile Include="Assets\Game_Handler_SUJA\Scripts\FBRewardedAd.cs" />
-     <Compile Include="Assets\Game_Handler_SUJA\Scripts\FacebookAdManager.cs" />
-     <Compile Include="Assets\Game_Handler_SUJA\Scripts\GameObjectEnabler.cs" />
      <Compile Include="Assets\Game_Handler_SUJA\Scripts\Game_Handler\DatabaseManager.cs" />
      <Compile Include="Assets\Game_Handler_SUJA\Scripts\Game_Handler\GameHandler.cs" />
      <Compile Include="Assets\Game_Handler_SUJA\Scripts\Game_Handler\GoogleSheetHandler.cs" />
@@ -642,25 +627,25 @@
         <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds.Common">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.Common.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.Common.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds.Core">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.Core.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.Core.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds.iOS">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.iOS.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.iOS.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds.Placement">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.Placement.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.Placement.dll</HintPath>
     </Reference>
     <Reference Include="GoogleMobileAds.Platforms">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.Platforms.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Assets/GoogleMobileAds/GoogleMobileAds.Platforms.dll</HintPath>
     </Reference>
     <Reference Include="Google.MiniJson">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Assets/Plugins/Google.MiniJson.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Assets/Plugins/Google.MiniJson.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -1017,31 +1002,31 @@
         <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>F:/Unity Projects/Unity Projects from ssd/Final-Projects/Gun_Sprint/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>E:/Unity Projects/sskgames Github Uploads/sskgamess/Gun_Sprint/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

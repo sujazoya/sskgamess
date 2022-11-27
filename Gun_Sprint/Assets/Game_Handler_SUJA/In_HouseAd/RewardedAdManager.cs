@@ -4,7 +4,7 @@ using GoogleMobileAds.Api;
 using System.Collections;
 using System;
 using UnityEngine.Events;
-using AudienceNetwork;
+
 
 public class RewardedAdManager : MonoBehaviour
 {

@@ -13,7 +13,6 @@ public class StartingAdCaller : MonoBehaviour
    IEnumerator CallInterstitial()
     {
         yield return new WaitForSeconds(2);
-        AdmobAdmanager.Instance.ShowInterstitial();
-         FacebookAdManager.Instance.ShowInterstitial();
+        AdmobAdmanager.Instance.ShowInterstitial();        
     }
 }
